@@ -13,11 +13,6 @@ The results of the Mr Nobody code illustrate the successful return on the comman
 
 -----
 
-## Getting Started
-
-Clone down repo.
-Run command 'npm install' in GitBash
-Run command 'node liri.js' or one of the commands below.
  
 ## What the command does:
 
