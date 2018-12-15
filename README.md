@@ -5,12 +5,13 @@
 
 The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in command through Language vs Speech. LIRI is a command line node app that takes in parameters and returns data based on the following command:
 
-*movie-this
+*movie-this*
 
+-----
 
 <img src="https://heidijvr.github.io/liri-node-app/images/movie-this-screenshot.PNG" alt="code sample liri app">
 
-The results of the Titanic code illustrates the successful return on the command *movie-this
+The results of the Titanic code illustrates the successful return on the command *movie-this*
 
 The results of the Mr Nobody code illustrates the successful return on the command *movie-this* if no movie name is supplied.
 
@@ -22,7 +23,6 @@ Clone down repo.
 Run command 'npm install' in GitBash
 Run command 'node liri.js' or one of the commands below.
  
------
 ## What the command does:
 
 node liri.js movie-this <movie name>
@@ -48,3 +48,5 @@ Request NPM Package - https://www.npmjs.com/package/request
 
 ## Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
+
+This project is part of the curriculum for the University of Washington Part-time Coding Bootcamp.
