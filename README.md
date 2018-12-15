@@ -1,8 +1,6 @@
 # liri-node-app (LIRI Bot- Assignment)
 
- ([Have a look at the code](https://heidijvr.github.io/liri-node-app/)).
-
-
+ 
 The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in command through Language vs Speech. LIRI is a command line node app that takes in parameters and returns data based on the following command:  **'movie-this'**
 
 -----
