@@ -9,9 +9,9 @@ The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but t
 
 <img src="https://heidijvr.github.io/liri-node-app/images/movie-this-screenshot.PNG" alt="code sample liri app">
 
-The results of the Titanic code illustrates the successful return on the command: **'movie-this'**
+The results of the Titanic code illustrate the successful return on the command: **'movie-this'**
 
-The results of the Mr Nobody code illustrates the successful return on the command:**'movie-this'**, if no movie name is supplied.
+The results of the Mr Nobody code illustrate the successful return on the command: **'movie-this'**, if no movie name is supplied.
 
 -----
 
@@ -41,12 +41,12 @@ It shows the following information in terminal/bash:
 
 ## Tech used
 
-Node.js
-npm omdb
-npm request
-npm dotenv
-npm inquirer
-npm file-system
+- Node.js
+- npm omdb
+- npm request
+- npm dotenv
+- npm inquirer
+- npm file-system
 
 ## Prerequisites
 
