@@ -1,3 +1,4 @@
 # liri-node-app
 
-<img src="https://heidijvr.github.io/images/movie-this-screenshot.png" alt="code sample liri app">
+<img src="https://heidijvr.github.io/liri-node-app/images/movie-this-screenshot.png" alt="code sample liri app">
+
