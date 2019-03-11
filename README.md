@@ -5,7 +5,7 @@ The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but t
 
 -----
 
-<img src="https://heidijvr.github.io/liri-node-app/images/movie-this-screenshot.PNG" alt="code sample liri app">
+<img src="https://heidijvr.github.io/liri-node-app/images/movie.this.screenshot.png" alt="code sample liri app">
 
 The results of the Titanic code illustrate the successful return on the command: **'movie-this'**
 
